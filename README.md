@@ -1,6 +1,7 @@
 Hello! I'm Ildi ✨
 
 About Me
+
 🎓 Background: I come from a law background, but I'm passionate about transitioning into the world of software engineering.
 
 💻 Skills: Proficient in HTML, CSS, and JavaScript, and eager to expand my knowledge in web development.
