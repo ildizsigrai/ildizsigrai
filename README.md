@@ -7,11 +7,13 @@ About Me
 💻 Skills: Proficient in HTML, CSS, and JavaScript, and eager to expand my knowledge in web development.
 
 My Journey
+
 🔭 Transitioning: I'm excited to apply my problem-solving skills and creativity to develop innovative software solutions.
 
 🚀 Learning Path: Completed courses in HTML, CSS, and JavaScript to build a strong foundation for my career shift.
 
 Current Focus
+
 📚 Learning on Udemy: Actively learning new programming concepts and technologies to stay up-to-date with industry trends.
 
 
