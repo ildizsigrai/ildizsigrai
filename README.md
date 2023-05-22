@@ -16,6 +16,10 @@ Current Focus
 
 📚 Learning on Udemy: Actively learning new programming concepts and technologies to stay up-to-date with industry trends.
 
+Coding Languages I practice:
+
+![HTML](https://example.com/html.png)
+
 
 
 <!--
