@@ -14,7 +14,7 @@ My Journey
 
 Current Focus
 
-📚 Learning on Udemy: Actively learning new programming concepts and technologies to stay up-to-date with industry trends.
+📚 Learning on IT University of Copenhagen: Actively learning new programming concepts and technologies to stay up-to-date with industry trends.
 
 
 
