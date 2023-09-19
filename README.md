@@ -3,19 +3,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-About Me
+### :woman_technologist: About Me :
 
 🎓 Background: I am a self-taught web developer, on a journey to create dynamic and user-friendly web experiences.
 
 💻 Skills: Proficient in HTML, CSS, and JavaScript, and eager to expand my knowledge in web development.
 
-My Journey
+### My Journey:
 
 🔭 Transitioning: My background is in Law and Compliance. I'm excited to apply my problem-solving skills and creativity to develop innovative software solutions.
 
 🚀 Learning Path: Completed courses in HTML, CSS, and JavaScript to build a strong foundation for my career shift.
 
-Current Focus
+### Current Focus:
 
 📚 Learning on IT University of Copenhagen: Actively learning new programming concepts and technologies to stay up-to-date with industry trends.
 
