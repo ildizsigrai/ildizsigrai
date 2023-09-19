@@ -2,13 +2,13 @@ Hello! I'm Ildi ✨
 
 About Me
 
-🎓 Background: I come from a law background, but I'm passionate about transitioning into the world of software engineering.
+🎓 Background: I am a self-taught web developer, on a journey to create dynamic and user-friendly web experiences.
 
 💻 Skills: Proficient in HTML, CSS, and JavaScript, and eager to expand my knowledge in web development.
 
 My Journey
 
-🔭 Transitioning: I'm excited to apply my problem-solving skills and creativity to develop innovative software solutions.
+🔭 Transitioning: My background is in Law and Compliance. I'm excited to apply my problem-solving skills and creativity to develop innovative software solutions.
 
 🚀 Learning Path: Completed courses in HTML, CSS, and JavaScript to build a strong foundation for my career shift.
 
