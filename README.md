@@ -13,11 +13,11 @@
 
 🔭 Transitioning: My background is in Law and Compliance. I'm excited to apply my problem-solving skills and creativity to develop innovative software solutions.
 
-🚀 Learning Path: Completed courses in HTML, CSS, and JavaScript to build a strong foundation for my career shift.
+🚀 Learning Path: Completed courses in HTML, CSS, and JavaScript to build a strong foundation, currently learning Java.
 
 ### Current Focus:
 
-📚 Learning on IT University of Copenhagen: Actively learning new programming concepts and technologies to stay up-to-date with industry trends.
+📚 Learning on IT University of Copenhagen: Actively learning new programming concepts and technologies.
 
 
 ### :hammer_and_wrench: Languages and Tools :
