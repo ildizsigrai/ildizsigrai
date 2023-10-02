@@ -7,8 +7,6 @@
 
 🎓 Background: I am a self-taught web developer, on a journey to create dynamic and user-friendly web experiences.
 
-💻 Skills: Proficient in HTML, CSS, and JavaScript, and eager to expand my knowledge in web development.
-
 ### My Journey:
 
 🔭 Transitioning: My background is in Law and Compliance. I'm excited to apply my problem-solving skills and creativity to develop innovative software solutions.
@@ -35,17 +33,3 @@
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ildizsigrai)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**ildizsigrai/ildizsigrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
