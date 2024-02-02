@@ -13,6 +13,7 @@
 ### Current Focus:
 
 📚 Learning on IT University of Copenhagen: Actively learning new programming concepts and technologies.
+👩🏽‍💻 Working as a Software Developer intern at HandyHand Aps in Copenhagen.
 
 
 ### :hammer_and_wrench: Languages and Tools :
