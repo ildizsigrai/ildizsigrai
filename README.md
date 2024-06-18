@@ -2,19 +2,7 @@
 
 ### :woman_technologist: About Me :
 
-🎓 Background: I am a self-taught web developer, on a journey to create dynamic and user-friendly web experiences.
-
-### My Journey:
-
-🔭 Transitioning: My background is in Law and Compliance. I'm excited to apply my problem-solving skills and creativity to develop innovative software solutions.
-
-🚀 Learning Path: Completed courses in HTML, CSS, and JavaScript to build a strong foundation, currently learning Java.
-
-### Current Focus:
-
-📚 Learning on IT University of Copenhagen: Actively learning new programming concepts and technologies.
-👩🏽‍💻 Working as a Software Developer intern at HandyHand Aps in Copenhagen.
-
+<p>I am a junior full-stack developer.</p>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
