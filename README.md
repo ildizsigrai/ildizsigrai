@@ -17,4 +17,4 @@
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ildizsigrai)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ildizsigrai)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
